@@ -1,6 +1,9 @@
 # PythonCrashCourse
 By Eric Matthes
 # 7DaysOfPython
+My weekly project no:1
+Starting date: 14/03/2020
+End Date: 20/03/2020
 
 Original sources: https://ehmatthes.github.io/pcc/
 Python Crash Course is a fast-paced, thorough introduction to Python that will have you writing programs, solving problems, and making things that work in no time.

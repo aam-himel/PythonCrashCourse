@@ -1,7 +1,8 @@
 # PythonCrashCourse
 By Eric Matthes
 # 7DaysOfPython
-My weekly project no:1
+# Weekly project No:01
+
 Starting date: 14/03/2020
 End Date: 20/03/2020
 
